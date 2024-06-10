@@ -1,2 +1,2 @@
 # DL
-DL Study Group
+Deep Learning
